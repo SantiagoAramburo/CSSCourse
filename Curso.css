@@ -8,9 +8,25 @@
 
 h1 {
     color: rgb(95, 67, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(179, 162, 130);
 } 
+
+header {
+    width: auto;
+    height: auto;
+}
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
 
 #page {
     background-color: rgb(222, 219, 219);
     border: 2px solid black;
 }
+
+
