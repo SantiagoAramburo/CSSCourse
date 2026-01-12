@@ -2,15 +2,15 @@
 
 /*Esta es la estructura básica de una regla CSS*/
 
-selector {
+/*selector {
     propiedad: valor;
-}
+}*/
 
-title {
+h1 {
     color: rgb(95, 67, 40);
 } 
 
 #page {
-    background-color: rgb(189, 183, 183);
+    background-color: rgb(222, 219, 219);
     border: 2px solid black;
 }
