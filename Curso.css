@@ -1,0 +1,16 @@
+/*Curso CSS*/
+
+/*Esta es la estructura básica de una regla CSS*/
+
+selector {
+    propiedad: valor;
+}
+
+title {
+    color: rgb(95, 67, 40);
+} 
+
+#page {
+    background-color: rgb(189, 183, 183);
+    border: 2px solid black;
+}
